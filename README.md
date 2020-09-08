@@ -1,8 +1,6 @@
 # my-awesome-article
-# Product Name
 > Just the note of all awesome article i found
 ## Meta
-
 Đỗ Quốc Huy – doquochuy189@gmail.com
 
 [https://github.com/huydq189](https://github.com/huydq189)
