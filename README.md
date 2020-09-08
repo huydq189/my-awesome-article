@@ -7,4 +7,5 @@
 
 ## Contributing
 
-- How to properly set up Nuxt with ESLint and Prettier in VSCode (<https://medium.com/@gogl.alex/how-to-properly-set-up-eslint-with-prettier-for-vue-or-nuxt-in-vscode-e42532099a9c>)
+- How to properly set up Nuxt with ESLint and Prettier in VSCode 
+(<https://medium.com/@gogl.alex/how-to-properly-set-up-eslint-with-prettier-for-vue-or-nuxt-in-vscode-e42532099a9c>)
